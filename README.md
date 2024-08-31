@@ -1,3 +1,7 @@
+![a](https://github.com/user-attachments/assets/904c6ea1-149f-4e9e-b00c-bcfbf013c4bb)
+![b](https://github.com/user-attachments/assets/8add1e4e-bbc0-4e3f-9883-8e159ae09b74)
+
+
 # Bootstrap-Based Blog
 
 ## Description
